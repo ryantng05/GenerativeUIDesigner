@@ -12,7 +12,7 @@ Transform text prompts into production-ready React + Tailwind components with in
 
 ## 🎯 MVP Differentiators
 
-**Not a Figma clone**. The differentiator is:
+The differentiator is:
 - ✅ Production-ready code generation
 - ✅ Built-in accessibility (ARIA labels, keyboard nav, semantic HTML)
 - ✅ Responsive layout out of the box
