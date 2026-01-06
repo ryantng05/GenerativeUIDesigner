@@ -168,7 +168,7 @@ export default function Home() {
           <p className="text-sm">
             Built with Next.js, React, Tailwind CSS, and OpenAI •{" "}
             <a
-              href="https://github.com/ryantng05/GenerativeUIDesigner"
+              href="https://github.com/ryan-tng/GenerativeUIDesigner"
               className="text-blue-400 hover:text-blue-300 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
